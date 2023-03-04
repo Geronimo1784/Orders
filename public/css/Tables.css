@@ -1,0 +1,288 @@
+
+    .customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .customers td, .customers th {
+        padding: 16px;
+        font-size: 12px;
+        color: .707070;
+        text-align: center;
+    }
+
+    .customers tr:nth-child( odd) { Background-color: #FFF; }
+    .customers tr:nth-child( even ) { Background-color: #f8f2ff;}
+
+    .customers tr:hover {background-color: #e3edff;}
+
+    .customers th {
+        padding: 14px 0px;
+        text-align: center;
+        background-color: var(--morad-m);
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 100;
+        border-top: 1px solid #f3f3f3;
+        border-bottom: 1px solid #f3f3f3;
+        font-weight: 600;
+    }
+
+/* --------------------------------- */
+
+.Firstt {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.Firstt td, .Firstt th {
+    padding: 16px;
+    font-size: 13px;
+    color: .707070;
+    text-align: center;
+}
+
+.Firstt tr:nth-child( odd) { Background-color: #FFF; }
+.Firstt tr:nth-child( even ) { Background-color: #f8f2ff;}
+
+.Firstt tr:hover {background-color: #e3edff;}
+
+.Firstt th {
+    padding: 14px 0px;
+    text-align: center;
+    background-color: var(--morad-m);
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 100;
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+    font-weight: 600;
+}
+
+
+/* --------------------------------- */
+
+.Second {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.Second td, .Second th {
+    padding: 16px;
+    font-size: 13px;
+    color: .707070;
+    text-align: center;
+}
+
+.Second tr:nth-child( odd) { Background-color: #FFF; }
+.Second tr:nth-child( even ) { Background-color: #f8f2ff;}
+
+.Second tr:hover {background-color: #e3edff;}
+
+.Second th {
+    padding: 14px 0px;
+    text-align: center;
+    background-color: #00a573;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 100;
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+    font-weight: 600;
+}
+    
+/* --------------------------------- */
+
+.Three {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.Three td, .Three th {
+    padding: 16px;
+    font-size: 13px;
+    color: .707070;
+    text-align: center;
+}
+
+.Three tr:nth-child( odd) { Background-color: #FFF; }
+.Three tr:nth-child( even ) { Background-color: #f8f2ff;}
+
+.Three tr:hover {background-color: #e3edff;}
+
+.Three th {
+    padding: 14px 0px;
+    text-align: center;
+    background-color: #ffed4d;
+    color: #494949;
+    font-size: 15px;
+    font-weight: 100;
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+    font-weight: 600;
+}
+
+/* --------------------------------- */
+
+.Four {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.Four td, .Four th {
+    padding: 16px;
+    font-size: 13px;
+    color: .707070;
+    text-align: center;
+}
+
+.Four tr:nth-child( odd) { Background-color: #FFF; }
+.Four tr:nth-child( even ) { Background-color: #f8f2ff;}
+
+.Four tr:hover {background-color: #e3edff;}
+
+.Four th {
+    padding: 14px 0px;
+    text-align: center;
+    background-color: #a151f0; /* #8100FF; */
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 100;
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+    font-weight: 600;
+}
+
+
+
+
+    
+/* --------------------------------- */
+
+
+
+
+
+    .Box-table{
+        border-right: 1px solid var(--morad-l);
+        border-left: 1px solid var(--morad-l);    
+        border-bottom: 1px solid var(--morad-l); 
+        border-top: 1px solid var(--morad-l); 
+        border-radius: 7px;
+        overflow: hidden;
+    }
+
+    .Box-form{
+
+        border: 1px solid #d7d7d7;
+/*         border-right: 1px solid #636363;
+        border-left: 1px solid var(--morad-l);    
+        border-bottom: 1px solid var(--morad-l); 
+        border-top: 1px solid var(--morad-l);  */
+        border-radius: 3px;
+        overflow: hidden;
+    }
+
+
+
+    .Pad-ext-1{
+        padding: 0px 30px;
+        background-color: #F6F8FA;
+    }
+
+    .Pad-ext-2{
+        padding: 0px 20px;
+        background-color: #F6F8FA;
+    }
+
+    .Pad-ext-3{
+        padding: 0px 10px;
+        background-color: #F6F8FA;
+    }
+    .Pad-ext-4{
+        background-color: #F6F8FA;
+    }
+
+    .page-item{
+        background-color: #F6F8FA;
+
+    }
+
+    .page-link{
+        background-color: #F6F8FA;
+        border: none;
+        color: #636363;
+        font-weight: 600;
+        font-size: 13px;
+    }  
+
+    .pag-sel{
+        background-color: #ff2f2f;
+        border: none;
+
+    }   
+
+    .inp-busq{
+        height: 37px;
+        padding: 10px;
+        border: 1px solid var(--morad-m);
+        border-radius: 4px;
+    }
+
+    .inp-busq::placeholder {
+        color: #c7c7c7;
+        font-size: 12px;
+    }
+
+    .Selt{
+        width: 100%;
+        padding: 6px;
+        border-radius: 4px;
+        font-weight: 600;
+        border: 1px solid var(--morad-m)
+    }   
+
+
+    /* --------------------BUTTONS ----------------- */
+    .bsubm-sup{
+        padding: 7px 25px;
+        font-size: 14px;
+        font-weight: 600;
+        border-radius: 25px;
+        cursor: pointer;
+        border: 1px dashed #6f008b00;
+        
+    }
+
+    .bsubm-sup:hover{
+        border: 1px dashed #70008b;
+        color: rgb(97, 0, 100);
+    }
+
+
+    .btn-sup{
+        padding: 7px 25px;
+        font-size: 14px;
+        font-weight: 600;
+        border-radius: 25px;
+        cursor: pointer;
+        color: #009dc4;
+        border: 1px dashed #ffffff00;
+        
+    }
+
+    .btn-sup:hover{
+        border: 1px dashed #004586;
+        color: #004586;
+    }
+
